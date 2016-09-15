@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YorTubePlayer</string>
+    <string name="title_activity_you_tube">YouTube Player!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
